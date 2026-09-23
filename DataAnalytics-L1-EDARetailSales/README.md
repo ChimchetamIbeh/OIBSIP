@@ -97,7 +97,7 @@ pip install pandas numpy matplotlib seaborn
 3. Open the notebook
 
 ```
-jupyter notebook Retail_Sales_Analysis.ipynb
+jupyter notebook ChimchetamIbeh_Task1.ipynb
 ```
 
 > The dataset path in the notebook references a local file. Update the path in the `pd.read_csv()` call to match your local setup, or place the retail sales CSV in the same folder as the notebook.
